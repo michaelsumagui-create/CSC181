@@ -1,42 +1,42 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Write your full name]  
-> **Section:** [Write your section]  
-> **Date submitted:** [YYYY-MM-DD]
+> **Name:** Michael S. Sumagui  
+> **Section:** CS3  
+> **Date submitted:** 2026-09-30
 
 ---
 
 ## 1. User group
 
 **Who are you designing for?**  
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
+Visitors and tourists attending the Diyandi Festival in Iligan City.
 
 **Why might this group need support during Diyandi?**  
-[Briefly explain the group’s situation, goals, or needs.]
+Visitors may be unfamiliar with Iligan City and may need an easy way to find festival activities, venues, schedules, and important updates. They may also have difficulty navigating unfamiliar areas, especially when roads or event locations become crowded.
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+Visitors are trying to find and attend Diyandi events that match their interests while knowing where and when each activity will take place. They may also need directions to event venues and information about schedule changes.
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+A reasonable assumption is that visitors may find it difficult to keep track of event schedules and venue locations when information is spread across different announcements, social media posts, or physical signs. Festival activities may also change because of weather, traffic, or other circumstances. This can cause visitors to miss events or waste time looking for venues.
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+I propose a Diyandi Festival Guide, a mobile friendly website that provides a centralized festival schedule, digital map, venue information, and official announcements. Users could browse events by date, time, or category and view the location of an event on a map. The website should also provide important updates from festival organizers.
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+The system would be designed to use little mobile data and store essential information for offline viewing when possible. This would make it more practical for visitors who have limited internet access.
 
 ---
 
@@ -44,8 +44,8 @@
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. A visitor can search for an event by date, category, or venue and view its schedule and location.
+2. A visitor can receive or view official notifications when an event schedule, venue, or other important information changes.
 
 ---
 
@@ -53,15 +53,15 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: [Write a quality]
+### Quality 1: Easy to use
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+Visitors may be unfamiliar with the festival and the city, so the information should be clearly organized with simple navigation, readable text, and an easy to understand map.
 
-### Quality 2: [Write a quality]
+### Quality 2: Reliable
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+Festival schedules and locations can change. Reliable and regularly updated information can help visitors avoid following outdated schedules and reduce the chance of missing activities.
 
 ---
 
@@ -69,7 +69,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+The system could be evaluated by asking visitors for feedback and observing whether they can find an event and its venue successfully. Organizers could also compare how often visitors report difficulty finding event information before and after using the guide. Task completion time could also be measured to determine whether users can locate schedules and venues efficiently.
 
 ---
 
@@ -84,7 +84,7 @@ You may include **one screenshot** or reference image only if it does not contai
 -->
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+None
 
 ---
 
@@ -94,16 +94,16 @@ Select **one** option below and complete the applicable details.
 
 - [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
-- [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
+- [✓] **AI tools used.** I used the following AI tool(s): ChatGPT.
 
   **Purpose of use:**  
-  [Describe specifically how you used the tool. Examples: brainstorming possible user groups; clarifying an idea; checking grammar; generating possible questions to consider.]
+  The ideas, topic, and proposed solution in this submission is my own. I used ChatGPT only to improve my wording, grammar, sentence structure, clarity of my writing, ask for suggestion of ideas, and ask if my answer is actually following instructions. I did not use AI to improve the main idea or make the decisions presented in the submission.
 
   **How I reviewed the output:**  
-  [Explain how you checked, revised, verified, or adapted the AI-generated output.]
+  I checked the revised text to make sure that it still reflected my original ideas and that added some changes but I can still say that it is related to my own ideas. I also checked that the content followed the activity instructions and made changes if necessary.
 
   **Prompt(s) or summary of interaction:**  
-  [Paste the main prompt(s) used, provide a link to the shared conversation if available, or summarize the interaction clearly enough for the instructor to understand the assistance received.]
+  I promt my own whole answer and asked ChatGPT to suggest ideas or if my answer is actually following the instructions, to improve the grammar, wording, and clarity while keeping the original meaning and ideas unchanged.
 
 > I understand that I remain responsible for the accuracy, originality, and quality of this submission. I confirm that I reviewed and revised any AI-generated content and can explain all ideas submitted under my name.
 
@@ -114,4 +114,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** Michael S. Sumagui
